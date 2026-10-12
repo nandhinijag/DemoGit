@@ -9,7 +9,4 @@ class Program
     }
 }
 
-class Person
-{
-    
-}
+
